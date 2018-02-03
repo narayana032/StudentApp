@@ -17,6 +17,7 @@ public class StudentAppImpl implements StudentApp {
 	@Override
 	public void addStudent(Student aStudent) {
 		// TODO Auto-generated method stub
+		System.out.println("Student added to database.");
 
 	}
 
